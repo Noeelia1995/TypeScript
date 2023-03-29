@@ -1,0 +1,15 @@
+{
+  "name": "desarrolladoras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "has-flag": "^5.0.1"
+    
+  },
+  "scripts": {
+    "start": "has-flag"
+  },
+  "author": "",
+  "license": "ISC"
+}
